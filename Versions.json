@@ -1,6 +1,6 @@
 { 
  "ExToolsDownloadInvoices":"3.0.00", "strNewExTools": "Có phiên bản mới {strVersion}:\n     + Cập nhật thông tin người mua (Họ tên, MST/CCCD)\n     \nBạn có muốn nâng cấp ngay bây giờ không?                      ", 
- "AutoPostingTools":"1.0.07", "strNewAutoPostingTool": "Cập nhật chức năng Telegram Message", 
+ "AutoPostingTools":"1.0.08", "strNewAutoPostingTool": "Cập nhật chức năng FB Fanpage Message", 
  "AutoWhatsAppSenderGSheetsV3": "3.0.02", 
  "AutoZaloSenderGSheets": "1.0.05", 
  "AutoZalo247": "1.0.03", 
