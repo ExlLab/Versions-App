@@ -1,5 +1,5 @@
 { 
- "ExToolsDownloadInvoices":"3.0.01", "strNewExTools":  "Có phiên bản mới {strVersion}:\n     + Fix bug\n     \nBạn có muốn nâng cấp ngay bây giờ không?                      ", 
+ "ExToolsDownloadInvoices":"3.0.02", "strNewExTools":  "Có phiên bản mới {strVersion}:\n     + Cập nhật chức năng tra cứu mã số thuế\n     \nBạn có muốn nâng cấp ngay bây giờ không?                      ", 
  "AutoPostingTools":"1.0.09", "strNewAutoPostingTool": "Có phiên bản mới {strVersion}:\n     + Cập nhật chức năng Facebook Message\n     \nBạn có muốn nâng cấp ngay bây giờ không?                      ", 
  "AutoWhatsAppSenderGSheetsV3": "3.0.02", 
  "AutoZaloSenderGSheets": "1.0.05", 
